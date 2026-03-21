@@ -38,12 +38,14 @@
     <div class="card">
         <h2>Education</h2>
         <p><strong>Bachelor of Technology</strong><br>
+        Electronics and Communication Engineering<br>
         <a href="https://geckkd.ac.in/">Government Engineering College Kozhikode</a></p>
     </div>
 
     <div class="card">
         <h2>Professional Memberships</h2>
         <p>Active member of <a href="https://www.ieee.org/">IEEE</a> and <a href="https://geckkd.ac.in/ieee.php">IEEE SB GECK</a>.</p>
+        <p>Secretary of <a href="https://www.linkedin.com/company/ieeeiasgeck/IEEE"></a>.</p>
         
         <strong>Technical Societies:</strong>
         <div class="sub-section">
